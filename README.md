@@ -1,5 +1,14 @@
-### Hi there 👋
-
+## Kenechi Ezekoye
+### Student of Life
+Hello! I'm Kenechi, and I'm a sophomore at the University of Pittsburgh double majoring in Computer Science and Data Science!
+- 🔭 I’m currently working on Neurolinguistics research
+- 🌱 I’m currently learning C and deepening my understanding of algorithmic runtime
+- 👯 I’m looking to collaborate on big data projects
+- 🤔 I’m looking for help with connecting with internship recruiters
+- 💬 Ask me about Tyler the Creator and I'll take your evening!
+- 📫 How to reach me: koe2@pitt.edu, +1(737) 346-6913
+- 😄 Pronouns: he/him/his
+- 🇳🇬 Fun fact: I am Nigerian American
 <!--
 **Olunechi/Olunechi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
