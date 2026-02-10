@@ -1,6 +1,6 @@
 ## Kenechi Ezekoye
 ### Student of Life
-Hello! I'm Kenechi, and I'm a Junior at the University of Pittsburgh double majoring in Computer Science and Data Science!
+Hello! I'm Kenechi, and I'm a Senior at the University of Pittsburgh double majoring in Computer Science and Data Science!
 - 🔭 I’m currently working on fashion marketplace app!
 - 🌱 I’m currently learning R and deepening my understanding of data analysis
 - 👯 I’m looking to collaborate on big data projects
