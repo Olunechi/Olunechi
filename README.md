@@ -1,12 +1,11 @@
 ## Kenechi Ezekoye
-### Student of Life
+### Servant of God
 Hello! I'm Kenechi, and I'm a Senior at the University of Pittsburgh double majoring in Computer Science and Data Science!
-- 🔭 I’m currently working on fashion marketplace app!
-- 🌱 I’m currently learning R and deepening my understanding of data analysis
+- 🔭 I’m currently working on two capstones!
+- 🌱 I’m currently learning computer architecture and machine learning
 - 👯 I’m looking to collaborate on big data projects
 - 🤔 I’m looking for help with connecting with internship recruiters
-- 💬 Ask me about Tyler the Creator and I'll take your evening!
-- 📫 How to reach me: kenechiezekoye@gmail.com +1(737) 346-6913
+- 💬 Ask me about the Lord and I'll take your evening!
 - 😄 Pronouns: he/him/his
 - 🇳🇬 Fun fact: I am Nigerian American
 <!--
